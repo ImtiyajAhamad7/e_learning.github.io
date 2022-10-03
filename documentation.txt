@@ -1,0 +1,43 @@
+DOCUMENTATION FOR THE PRUTOR PROJECT;:- E-LERNING
+
+1.SIGNUP
+2.LOGIN
+3.INDEX
+4.COURSES
+5.ADMIN_DATA
+6.ADMIN_PAGE
+7.feedback
+8.contact us
+
+
+what i have  to do now--
+
+admin page ------
+
+
+1. click on add courses btn
+2. get the detail of the courses
+3. save data in database
+4. display the data in courses cards and in courses table in admin page
+
+above work has been done-------
+
+1.login sts (admin & user login )
+2.payment gatway.
+3.user who bought the course page 
+4.Review Page/contact page
+5.footer                 ----done-----
+
+sign up ke baad login page pr le jao wha se user ki id select kr lo aur fir user ka name show kra do 
+
+
+
+
+
+
+3.user account....................make actin folder -> take user id from that folder -> passed in update account done
+4.admin account
+5.edit course. done
+6.designing
+
+
